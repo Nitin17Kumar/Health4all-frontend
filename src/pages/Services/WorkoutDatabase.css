@@ -1,0 +1,60 @@
+
+
+   .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+  }
+
+   .pagination button {
+    margin:  5px;
+    padding: 5px 10px;
+    background-color: #f2f2f2;
+    border: none;
+    
+    cursor: pointer;
+  }
+  
+  .pagination button:hover {
+    background-color: #ddd;
+  }
+  
+  .pagination button.active {
+    background-color: #ff8181;
+  }
+
+  .head1{
+    font-weight: 700;
+    
+  }
+
+  .container2{
+    background-image: url('../../assets/images/banner1.png');
+    background-size: cover;
+    height: 500px;
+  }
+
+
+  .container1{
+    background-image: url('../../assets/images/banner2.png');
+    background-size: cover;
+    height: 500px;
+  }
+
+  .container3{
+    background-image: url('../../assets/images/banner3.png');
+    background-size: cover;
+    height: 500px;
+  }
+
+  th, td{
+padding: 22px;
+text-align: center;
+border: 2px solid black;
+border-style: double;
+  }
+  table {
+    border: 2px solid black;
+    border-spacing: 30px;
+  }
+

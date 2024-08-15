@@ -1,0 +1,13 @@
+.hero{
+   background-image: url('../../assets/images/hero-bg.png'); 
+   background-size: cover;
+   
+}
+
+.hero_section{
+   background-color: whitesmoke;
+}
+
+.abc{
+   font-weight:700;
+}
